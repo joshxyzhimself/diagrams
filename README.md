@@ -1,6 +1,6 @@
-# diagrams
+## diagrams
 
-## Example
+#### Example
 
 
 ```mermaid
@@ -9,3 +9,7 @@ sequenceDiagram
     John-->>Alice: Great!
     Alice-)John: See you later!
 ```
+
+#### References
+
+- https://mermaid.js.org/syntax/sequenceDiagram.html
