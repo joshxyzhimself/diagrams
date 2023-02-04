@@ -25,3 +25,4 @@ sequenceDiagram
 #### References
 
 - https://mermaid.js.org/syntax/sequenceDiagram.html
+- https://mermaid.js.org/syntax/examples.html
