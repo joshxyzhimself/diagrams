@@ -1,7 +1,8 @@
 ## diagrams
 
-#### Example
 
+
+#### Example
 
 ```mermaid
 sequenceDiagram
